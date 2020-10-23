@@ -1,0 +1,36 @@
+.container{
+  text-align: center;
+}
+.surnamesearch{
+  background-color: #BDB76B;
+}
+#message{
+  margin-top: 20px;
+  font-size: 20px;
+  color: purple;
+}
+#addBtn{
+  margin-left: auto;
+  margin-right: auto;
+  width: 80px;
+}
+#messageAdd {
+  margin-top: 20px;
+  font-size: 20px;
+}
+#addBtn, #listTile, #messagePosition {
+  display: none;
+}
+.surname-find{
+  background-color: #00CED1;
+}
+#surnameList{
+  text-align: left;
+  font-size: 25px;
+}
+
+#messagePosition{
+  font-size: 25px;
+  font-style: oblique;
+  text-decoration: underline;
+}
